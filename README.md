@@ -17,6 +17,6 @@
 
 **Infra and Tolls**
 
-
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wjdrlf5781)](https://solved.ac/wjdrlf5781/)<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/letsgilit/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=letsgilit&show_icons=true&theme=radical)
