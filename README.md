@@ -5,7 +5,7 @@
 ## Interest
 ![java](https://img.shields.io/badge/java-000000?style=for-the-badge&logo=openjdk)
 ![javascript](https://img.shields.io/badge/javascript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Spring Boot](https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 
 ### Skills
 ![java](https://img.shields.io/badge/java-000000?style=for-the-badge&logo=openjdk)
