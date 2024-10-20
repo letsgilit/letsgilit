@@ -1,6 +1,6 @@
-![Waving](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=ㅎㅇ%&fontAlignY=50&fontAlign=39)
+![Waving](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=안녕하세요%&fontAlignY=50&fontAlign=39)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fletsgilit&count_bg=%23E39D45&title_bg=%23DF7070&icon=azurepipelines.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-## 안녕하세요, 백엔드개발자로 성장해나가는 남정길입니다.
+## 백엔드개발자로 성장해나가는 남정길입니다.
 
 ## Interest
 ![java](https://img.shields.io/badge/java-000000?style=for-the-badge&logo=openjdk)
